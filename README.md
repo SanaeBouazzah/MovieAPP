@@ -1,5 +1,5 @@
 
-<p><img src="/public/images/app.png" alt="image"/></p>
+<p><img src="/images/app.png" alt="image"/></p>
 
 
 
